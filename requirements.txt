@@ -14,11 +14,6 @@ idna==3.10
 iniconfig==2.3.0
 itsdangerous==2.2.0
 Jinja2==3.1.6
-Kivy==2.3.1 ; sys_platform == "win32"
-kivy-deps.angle==0.4.0 ; sys_platform == "win32"
-kivy-deps.glew==0.3.1 ; sys_platform == "win32"
-Kivy-Garden==0.1.5 ; sys_platform == "win32"
-kivy_deps.sdl2==0.8.0
 lxml==6.0.2
 MarkupSafe==3.0.3
 numpy==2.3.3

@@ -1,8 +1,29 @@
-# Created by pytest automatically.
-*
-pandas/
-types/
+# Ignore Python caches
 __pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+env/
 Scripts/
 Lib/
 site-packages/
+
+# Ignore packages mistakenly copied into repo
+pandas/
+types/
+
+# VS Code
+.vscode/
+
+# pytest cache
+.pytest_cache/
+
+# build artifacts
+build/
+dist/
+*.egg-info/
+
+# DO NOT ignore .github so workflows work

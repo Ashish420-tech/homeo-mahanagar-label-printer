@@ -1,6 +1,5 @@
-pytest
-pytest-qt
-pyqt5
 pandas
+PyQt5
 reportlab
-openpyxl
+pytest
+pywin32 ; sys_platform == 'win32'

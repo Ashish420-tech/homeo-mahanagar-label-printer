@@ -1,9 +1,0 @@
-PyQt5
-pandas
-openpyxl
-reportlab
-pyinstaller
-win32print
-win32ui
-win32api
-win32con

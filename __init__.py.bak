@@ -1,7 +1,0 @@
-# src/homeolabel/__init__.py
-"""
-homeolabel package init: expose HomeoLabelApp
-"""
-
-# Import lazily to keep import cheap
-from .app import HomeoLabelApp  # noqa: F401

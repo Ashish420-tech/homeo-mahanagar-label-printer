@@ -1,0 +1,6 @@
+pytest
+pytest-qt
+pyqt5
+pandas
+reportlab
+openpyxl

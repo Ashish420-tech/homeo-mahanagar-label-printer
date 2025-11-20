@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "homeolabel"
+version = "0.1.0"
+description = "Homeopathy label generator GUI"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+  "PyQt5>=5.15.9",
+  "reportlab",
+  "pandas",
+  "openpyxl"
+]
+
+[project.scripts]
+homeolabel = "homeolabel.__main__:main"

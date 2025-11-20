@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# ---- appended by setup_package.ps1 ----
+# Added by setup_package.ps1
+# runtime data
+data/
+data/records/*.pdf
+data/records/*_backup.json
+data/records/label_preview.pdf
+data/records/error_log.txt
+# large dbs if any
+data/remedies_database.*

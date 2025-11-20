@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+# IDE / OS
+.vscode/
+.DS_Store
+# test / runtime outputs
+pytest_cache/
+records/
+*.log
+*.pdf
+*.xlsx

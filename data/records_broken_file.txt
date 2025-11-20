@@ -1,0 +1,32 @@
+2025-11-20 14:03:29,586 - INFO - Remedies loaded successfully.
+2025-11-20 14:03:29,946 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-11-20 14:03:29,967 - ERROR - apply_scaled_style failed
+Traceback (most recent call last):
+  File "c:\Users\Ashish\Desktop\Newfolder2\homeolabel_project\src\homeolabel\app.py", line 334, in apply_scaled_style
+    self.preview_frame.setMinimumWidth(self._ui['preview_min_width'] * self.scaling)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: setMinimumWidth(self, minw: int): argument 1 has unexpected type 'float'
+2025-11-20 14:03:30,091 - ERROR - apply_scaled_style failed
+Traceback (most recent call last):
+  File "c:\Users\Ashish\Desktop\Newfolder2\homeolabel_project\src\homeolabel\app.py", line 334, in apply_scaled_style
+    self.preview_frame.setMinimumWidth(self._ui['preview_min_width'] * self.scaling)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: setMinimumWidth(self, minw: int): argument 1 has unexpected type 'float'
+2025-11-20 14:03:30,365 - ERROR - apply_scaled_style failed
+Traceback (most recent call last):
+  File "c:\Users\Ashish\Desktop\Newfolder2\homeolabel_project\src\homeolabel\app.py", line 334, in apply_scaled_style
+    self.preview_frame.setMinimumWidth(self._ui['preview_min_width'] * self.scaling)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: setMinimumWidth(self, minw: int): argument 1 has unexpected type 'float'
+2025-11-20 14:03:30,437 - ERROR - apply_scaled_style failed
+Traceback (most recent call last):
+  File "c:\Users\Ashish\Desktop\Newfolder2\homeolabel_project\src\homeolabel\app.py", line 334, in apply_scaled_style
+    self.preview_frame.setMinimumWidth(self._ui['preview_min_width'] * self.scaling)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: setMinimumWidth(self, minw: int): argument 1 has unexpected type 'float'
+2025-11-20 14:03:32,186 - ERROR - apply_scaled_style failed
+Traceback (most recent call last):
+  File "c:\Users\Ashish\Desktop\Newfolder2\homeolabel_project\src\homeolabel\app.py", line 334, in apply_scaled_style
+    self.preview_frame.setMinimumWidth(self._ui['preview_min_width'] * self.scaling)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: setMinimumWidth(self, minw: int): argument 1 has unexpected type 'float'

@@ -1,23 +1,8 @@
-# Python
+# Created by pytest automatically.
+*
+pandas/
+types/
 __pycache__/
-*.py[cod]
-*.egg-info/
-.env
-.env.*
-
-# IDE / OS
-.vscode/
-.DS_Store
-Thumbs.db
-
-# Test/runtime outputs
-pytest_cache/
-records/
-*.log
-*.pdf
-*.xlsx
-
-# Node / build / misc
-node_modules/
-dist/
-build/
+Scripts/
+Lib/
+site-packages/
